@@ -22,7 +22,7 @@
 
   <!-- Main CSS File -->
   <link href="{{ asset("template") }}/assets/css/main.css" rel="stylesheet">
-
+  @vite("resources/js/app.js")
 </head>
 
 <body class="portfolio-page">
